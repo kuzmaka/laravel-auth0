@@ -1,5 +1,5 @@
 {
-    "name": "auth0/login",
+    "name": "kuzma/auth0login",
     "description": "Laravel plugin that helps authenticate with the auth0 service",
     "license": "MIT",
     "require": {
